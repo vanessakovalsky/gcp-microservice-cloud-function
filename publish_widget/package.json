@@ -1,0 +1,9 @@
+{
+  "name": "publish_widget-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "0.14.2",
+    "uuid": "^3.0.1"
+  }
+}
+
